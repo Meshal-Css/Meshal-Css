@@ -1,11 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.gif?cid=ecf05e47db358gllgkvyrzkb3p2kkkfk54bnk2gu84smpncl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Meshal-css.Meshal-css&"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1jMGd3eHptOWN3ZjhlOThsNTR3bGI3ZWVha2ZhczhyM2ZoemMycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LR5ZBwZHv02lmpVoEU/giphy.gif"  />
 </div>
 
 ###
@@ -14,11 +8,11 @@
 
 ###
 
-<h1 align="center">👩‍💻  About Me</h1>
+<h1 align="center">About Me</h1>
 
 ###
 
-<h5 align="left">👋 Hi, I'm Meshal Aldalbahi from Riyadh, Saudi Arabia.<br><br>I'm a passionate and driven Data Analyst with a strong background in Computer Science.  <br>I recently graduated from Shaqra University with a GPA of 4.40 out of 5.  <br>I specialize in data analysis, AI, and building real-world solutions using machine learning.<br><br>📊 I've completed advanced bootcamps like SDAIA T5 and "Journey to AI World",  <br>where I worked on real projects like detecting phone usage, road damage detection with YOLOv8, and real estate price prediction.<br><br>🛠 My tech stack includes: Python, SQL, Pandas, Machine Learning, Deep Learning, Power BI, and more.<br><br>💡 I'm passionate about transforming data into meaningful insights that help people make better decisions.<br><br>🚀 My goal is to keep learning and contribute to impactful, data-driven innovations.</h5>
+<h5 align="left">Hi, I'm Meshal Aldalbahi from Riyadh, Saudi Arabia.<br><br>I'm a passionate and driven Data Analyst with a strong background in Computer Science.  <br>I recently graduated from Shaqra University with a GPA of 4.40 out of 5.  <br>I specialize in data analysis, AI, and building real-world solutions using machine learning.<br><br> I've completed advanced bootcamps like SDAIA T5 and "Journey to AI World",  <br>where I worked on real projects like detecting phone usage, road damage detection with YOLOv8, and real estate price prediction.<br>My tech stack includes: Python, SQL, Pandas, Machine Learning, Deep Learning, Power BI, and more.<br><br> I'm passionate about transforming data into meaningful insights that help people make better decisions.<br><br> My goal is to keep learning and contribute to impactful, data-driven innovations.</h5>
 
 ###
 
