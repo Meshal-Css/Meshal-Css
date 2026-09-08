@@ -12,7 +12,17 @@
 
 ###
 
-<h5 align="left">Hi, I'm Meshal Aldalbahi from Riyadh, Saudi Arabia.<br><br>I'm a passionate and driven Data Analyst with a strong background in Computer Science.  <br>I recently graduated from Shaqra University with a GPA of 4.40 out of 5.  <br>I specialize in data analysis, AI, and building real-world solutions using machine learning.<br><br> I've completed advanced bootcamps like SDAIA T5 and "Journey to AI World",  <br>where I worked on real projects like detecting phone usage, road damage detection with YOLOv8, and real estate price prediction.<br>My tech stack includes: Python, SQL, Pandas, Machine Learning, Deep Learning, Power BI, and more.<br><br> I'm passionate about transforming data into meaningful insights that help people make better decisions.<br><br> My goal is to keep learning and contribute to impactful, data-driven innovations.</h5>
+<h5 align="left">Hi, I'm Meshal Aldalbahi from Riyadh, Saudi Arabia.
+
+I'm an AI Engineer at NHCI (National Housing Company), where I build production AI pipelines spanning Arabic OCR and document extraction, image enhancement, and LLM integration. I hold a Computer Science degree from Shaqra University (GPA 4.40/5.00).
+
+Before moving into industry, I trained through advanced bootcamps like SDAIA T5 and "Journey to AI World," working on projects like phone-usage detection, road damage detection with YOLOv8, and real estate price prediction — the foundation that led me into applied AI engineering.
+
+My day-to-day work involves deploying AI/ML services on cloud-native infrastructure (Kubernetes, Azure) and integrating them into large-scale platforms used in real production workflows.
+
+Tech stack: Python, SQL, Pandas, Machine Learning, Deep Learning, Power BI, FastAPI, and cloud/deployment tools (Kubernetes, Azure).
+
+I'm passionate about turning data and AI into real, deployed solutions — not just models in a notebook — and I'm always looking to keep learning and contribute to impactful, data-driven innovation..</h5>
 
 ###
 
